@@ -1,5 +1,5 @@
 
-Flight Tracking Application with Python
+#Flight Tracking Application with Python
 Overview
 This repository contains a Python application for real-time flight tracking using open air traffic data from OpenSky Network. The application fetches live air traffic data through the OpenSky Network REST API, processes the data, and plots the aircraft positions on a map. The map is displayed in a web browser, providing a user-friendly interface for tracking flights.
 
